@@ -1,0 +1,5 @@
+[H[2JEscolha um metodo de ordenacao:
+ [1]- SelectionSort
+ [2]- QuickSort
+ [3]- CountSort
+ [9]- Sair
